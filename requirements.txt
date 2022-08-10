@@ -1,5 +1,4 @@
 boto3==1.22.11
-ipython==8.4.0
 ipywidgets==7.6.5
 matplotlib==3.4.3
 nltk==3.6.5
