@@ -6,4 +6,4 @@ red_panda==1.0.2
 rich==12.5.1
 scipy==1.7.1
 sparse_dot_topn==0.3.3
-sklearn=1.0.0
+sklearn==1.0.0
